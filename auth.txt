@@ -1,0 +1,2 @@
+# Kora Private Messanger Auth File - DO NOT SHARE PAT TOKEN
+# Format: USER:username:sha256_password_hash:expiry_date
